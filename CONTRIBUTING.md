@@ -49,10 +49,6 @@ We are committed to providing a welcoming and inclusive environment for all cont
 - Publish others' private information
 - Engage in trolling or inflammatory behavior
 
-### Enforcement
-
-Violations can be reported to [your email]. All complaints will be reviewed and investigated promptly and fairly.
-
 ---
 
 ## How Can I Contribute?
