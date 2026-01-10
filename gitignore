@@ -1,0 +1,171 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# ============================================
+# SECURITY: Configuration files with secrets
+# ============================================
+
+# Your real config.dart with server IP and Agora App ID
+# KEEP THIS FILE PRIVATE!
+lib/config.dart
+
+# Only example config should be in repository
+!lib/config.example.dart
+
+# Server file with real access codes
+# KEEP THIS FILE PRIVATE!
+# Note: If you want server.dart in repo with example codes,
+# keep your real server.dart outside the repository
+# server/server.dart
+
+# ============================================
+# SECURITY: Keystore and signing files
+# ============================================
+
+# Android signing keys
+*.jks
+*.keystore
+key.properties
+android/key.properties
+
+# iOS signing
+*.mobileprovision
+*.p12
+
+# ============================================
+# Build outputs
+# ============================================
+
+# Windows build
+windows/flutter/ephemeral/
+
+# macOS build
+macos/Flutter/ephemeral/
+
+# Linux build
+linux/flutter/ephemeral/
+
+# Web build
+.dart_tool/
+build/
+
+# ============================================
+# Local development
+# ============================================
+
+# Local configuration
+local.properties
+
+# IDE - VSCode
+.vscode/
+*.code-workspace
+
+# IDE - Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# IDE - Xcode
+*.xcodeproj
+*.xcworkspace
+
+# ============================================
+# OS generated files
+# ============================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+
+# ============================================
+# Testing
+# ============================================
+
+# Coverage
+coverage/
+*.lcov
+
+# Test output
+test/.test_coverage.dart
+
+# ============================================
+# Documentation
+# ============================================
+
+# Generated docs
+doc/api/
+
+# ============================================
+# Backup files
+# ============================================
+
+*.bak
+*.backup
+*.swp
+*.swo
+*~
+
+# ============================================
+# Archives
+# ============================================
+
+*.tar.gz
+*.zip
+*.7z
+*.rar
