@@ -466,7 +466,7 @@ git pull upstream main
 **⚠️ DO NOT open public issues for security vulnerabilities!**
 
 Instead:
-1. Email: [your security email]
+1. Email: sssilvercock@gmail.com
 2. Include:
    - Vulnerability description
    - Steps to reproduce
