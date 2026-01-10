@@ -466,7 +466,7 @@ git pull upstream main
 **⚠️ НЕ открывайте публичные issues для уязвимостей безопасности!**
 
 Вместо этого:
-1. Email: [ваш security email]
+1. Email: sssilvercock@gmail.com
 2. Включите:
    - Описание уязвимости
    - Шаги воспроизведения
